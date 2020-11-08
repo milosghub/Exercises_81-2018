@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Djuro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Djuro\\.nuget\\packages"
+    ]
+  }
+}

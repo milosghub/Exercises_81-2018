@@ -1,0 +1,15 @@
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\Excercises_81-2018.exe
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\Excercises_81-2018.deps.json
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\Excercises_81-2018.runtimeconfig.json
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\Excercises_81-2018.runtimeconfig.dev.json
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\Excercises_81-2018.dll
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\Excercises_81-2018.pdb
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.csprojAssemblyReference.cache
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81_2018.Form1.resources
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.csproj.GenerateResource.cache
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.AssemblyInfoInputs.cache
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.AssemblyInfo.cs
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.csproj.CoreCompileInputs.cache
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.dll
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.pdb
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.genruntimeconfig.cache
