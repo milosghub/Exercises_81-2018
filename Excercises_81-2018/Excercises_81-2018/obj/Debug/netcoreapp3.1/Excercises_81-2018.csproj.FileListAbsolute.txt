@@ -9,7 +9,14 @@ C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018
 C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.csproj.GenerateResource.cache
 C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.AssemblyInfoInputs.cache
 C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.AssemblyInfo.cs
-C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.csproj.CoreCompileInputs.cache
 C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.dll
 C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.pdb
 C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.genruntimeconfig.cache
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.csproj.CoreCompileInputs.cache
+C:\Users\Djuro\Documents\Exercises_81-2018\Excercises_81-2018\Excercises_81-2018\obj\Debug\netcoreapp3.1\Excercises_81-2018.csproj.CopyComplete

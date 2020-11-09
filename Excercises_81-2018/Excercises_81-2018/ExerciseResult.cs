@@ -6,21 +6,20 @@ namespace Excercises_81_2018
 {
     class ExerciseResult
     {
-        private static int idd = 0;
+        
         public int Id { get; set; }
         public string StudentName { get; set; }
         public string StudentIndex { get; set; }
         public int Point { get; set; }
 
-        public ExerciseResult(string name, string index, int point)
+        public ExerciseResult(int id, string name, string index, int point)
         {
-            Id = idd++;
+            Id = id;
             StudentName = name;
             StudentIndex = index;
             Point = point;
         }
         public ExerciseResult() { }
-        public override string ToString()
-       => Id + " " + StudentName + " " + StudentIndex + " " + Point;
+        
     }
 }
